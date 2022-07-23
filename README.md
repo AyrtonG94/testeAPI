@@ -39,3 +39,7 @@ OBS: Tem que ter o NodeJs instalado na máquina
 - php artisan serve
 
 
+ ## Como rodar o frontend
+ 
+ - Baixe a extensão live server no vscode
+ - com o arquivo index.html aberto no vscode, clique com o botão direito nele e escolha a opção "open with live server"
